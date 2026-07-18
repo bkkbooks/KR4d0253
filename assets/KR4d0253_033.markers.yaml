@@ -13,6 +13,7 @@ markers:
   - {type: line-break, offset: 11, content: '', id: KR4d0253_SBCK_033-1a02}
   - {type: substitution, offset: 11, original: 謚, replacement: 諡, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20215}}
   - {type: punctuation, offset: 13, content: (, id: KR4d0253_krp_033-bkkpn1}
+  - {type: 'voice:problem', offset: 13, length: 0, id: KR4d0253_bkk_033-bkkvprob1, source: parens, bucket: front, code: unmatched-open, message: unmatched '(' at offset 13}
   - {type: punctuation, offset: 23, content: /, id: KR4d0253_krp_033-bkkpn2}
   - {type: substitution, offset: 24, original: 㫖, replacement: 旨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-0003}}
   - {type: substitution, offset: 27, original: 謚, replacement: 諡, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20215}}
@@ -23,6 +24,7 @@ markers:
       ', id: KR4d0253_krp_033-bkkkrnewl1}
   - {type: line-break, offset: 0, content: '', id: KR4d0253_SBCK_033-1a03}
   - {type: indent, offset: 0, content: 　　, id: KR4d0253_krp_033-bkkind1}
+  - {type: 'voice:problem', offset: 0, length: 0, id: KR4d0253_bkk_033-bkkvprob2, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 0 with no matching '('}
   - {type: variant, offset: 5, length: 1, content: 博, SBCK: 􅀶}
   - {type: indent, offset: 8, content: 　, id: KR4d0253_krp_033-bkkind2}
   - {type: indent, offset: 9, content: 　, id: KR4d0253_krp_033-bkkind3}
@@ -1516,4 +1518,4 @@ markers:
 
       ', id: KR4d0253_krp_033-bkkkrnewl277}
   back: []
-hash: sha256:4a2f6f344493c40caa6c0fb2bf2d3bbab5f60feb9319acc337de08cb928232cf
+hash: sha256:8061a048fae5214d50bced56a40a9f0e2e88b3dafba055d5bb3618c47c59b60a

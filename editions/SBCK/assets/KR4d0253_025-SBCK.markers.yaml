@@ -56,6 +56,7 @@ markers:
   - {type: line-break, offset: 99, content: '', id: KR4d0253_SBCK_025-1b01}
   - {type: indent, offset: 99, content: 　　, id: KR4d0253_SBCK_025-bkkind4}
   - {type: punctuation, offset: 100, content: (, id: KR4d0253_SBCK_025-bkkpn1}
+  - {type: voice, offset: 100, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 102, content: ), id: KR4d0253_SBCK_025-bkkpn2}
   - {type: 'kr:newline', offset: 102, content: '
 
@@ -71,6 +72,7 @@ markers:
   - {type: line-break, offset: 126, content: '', id: KR4d0253_SBCK_025-1b04}
   - {type: indent, offset: 126, content: 　　, id: KR4d0253_SBCK_025-bkkind5}
   - {type: punctuation, offset: 131, content: (, id: KR4d0253_SBCK_025-bkkpn3}
+  - {type: voice, offset: 131, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 133, content: ), id: KR4d0253_SBCK_025-bkkpn4}
   - {type: 'kr:newline', offset: 133, content: '
 
@@ -99,6 +101,7 @@ markers:
   - {type: line-break, offset: 190, content: '', id: KR4d0253_SBCK_025-1b10}
   - {type: indent, offset: 190, content: 　　, id: KR4d0253_SBCK_025-bkkind7}
   - {type: punctuation, offset: 192, content: (, id: KR4d0253_SBCK_025-bkkpn5}
+  - {type: voice, offset: 192, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 194, content: ), id: KR4d0253_SBCK_025-bkkpn6}
   - {type: 'kr:newline', offset: 194, content: '
 
@@ -303,6 +306,7 @@ markers:
   - {type: line-break, offset: 860, content: '', id: KR4d0253_SBCK_025-4a03}
   - {type: indent, offset: 860, content: 　　, id: KR4d0253_SBCK_025-bkkind17}
   - {type: punctuation, offset: 873, content: (, id: KR4d0253_SBCK_025-bkkpn7}
+  - {type: voice, offset: 873, length: 2, name: note, id: n4}
   - {type: punctuation, offset: 875, content: ), id: KR4d0253_SBCK_025-bkkpn8}
   - {type: 'kr:newline', offset: 875, content: '
 
@@ -507,4 +511,4 @@ markers:
 
       ', id: KR4d0253_SBCK_025-bkkkrnewl115}
   back: []
-hash: sha256:449aef56d2fbbfca7f78f21447cbc70c6b8b1a30f3c889fd393c32db1004760c
+hash: sha256:a105d00f66474db87e3adeff317983ad4c11bc48991bb51a934ed568436821fe
